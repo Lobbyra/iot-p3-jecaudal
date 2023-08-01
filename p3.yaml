@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: p3
-        image: lobbyra/miniweb:v2
+        image: lobbyra/miniweb:v1
         resources:
           limits:
             memory: "128Mi"
